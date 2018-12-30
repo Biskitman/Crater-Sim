@@ -133,6 +133,7 @@
             // Angle
             // 
             this.Angle.Location = new System.Drawing.Point(15, 250);
+            this.Angle.MaxLength = 3;
             this.Angle.Name = "Angle";
             this.Angle.Size = new System.Drawing.Size(100, 20);
             this.Angle.TabIndex = 11;
