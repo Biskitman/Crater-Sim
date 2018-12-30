@@ -1,0 +1,10 @@
+C:\Users\Bertie\Documents\GitHub\Crater-Sim\Crater Sim\Crater Sim\bin\Debug\Crater Sim.exe.config
+C:\Users\Bertie\Documents\GitHub\Crater-Sim\Crater Sim\Crater Sim\bin\Debug\Crater Sim.exe
+C:\Users\Bertie\Documents\GitHub\Crater-Sim\Crater Sim\Crater Sim\bin\Debug\Crater Sim.pdb
+C:\Users\Bertie\Documents\GitHub\Crater-Sim\Crater Sim\Crater Sim\obj\Debug\Crater Sim.csprojAssemblyReference.cache
+C:\Users\Bertie\Documents\GitHub\Crater-Sim\Crater Sim\Crater Sim\obj\Debug\Crater_Sim.Form1.resources
+C:\Users\Bertie\Documents\GitHub\Crater-Sim\Crater Sim\Crater Sim\obj\Debug\Crater_Sim.Properties.Resources.resources
+C:\Users\Bertie\Documents\GitHub\Crater-Sim\Crater Sim\Crater Sim\obj\Debug\Crater Sim.csproj.GenerateResource.cache
+C:\Users\Bertie\Documents\GitHub\Crater-Sim\Crater Sim\Crater Sim\obj\Debug\Crater Sim.csproj.CoreCompileInputs.cache
+C:\Users\Bertie\Documents\GitHub\Crater-Sim\Crater Sim\Crater Sim\obj\Debug\Crater Sim.exe
+C:\Users\Bertie\Documents\GitHub\Crater-Sim\Crater Sim\Crater Sim\obj\Debug\Crater Sim.pdb
