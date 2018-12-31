@@ -90,9 +90,9 @@ namespace Crater_Sim
 
             // Uses the Dtc = Equation from the white paper, think its the diameter but no clue, also this equation gets a different result to a calculator, double check it
             Result = (1.161 * Math.Pow((DensityPr / DensityGr), (1/3.0))) * Math.Pow(DiameterP, 0.78) * Math.Pow(VelocityP, 0.44) * Math.Pow(Gravity, -0.22) * Math.Pow((Math.Sin(AngleP)),(1/3.0));
-            Result = Math.Round(Result, 2);
+            Result = Math.Round(Result, 0);
 
-            Crater_Diameter.Text = Convert.ToString(Result);
+            Crater_Diameter.Text = Convert.ToString(Result) + " km";
         }
 
         private void button1_Click(object sender, EventArgs e)
